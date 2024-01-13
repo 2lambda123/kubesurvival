@@ -10,7 +10,7 @@ require (
 	github.com/cpuguy83/strongerrors v0.2.1 // indirect
 	github.com/cristim/ec2-instances-info v0.0.0-20210201160642-80270dab05f8
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
-	github.com/docker/distribution v2.7.1+incompatible // indirect
+	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/evanphx/json-patch v0.5.2 // indirect
 	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef // indirect
 	github.com/google/btree v1.0.1 // indirect
